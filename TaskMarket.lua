@@ -1,0 +1,11 @@
+(function()taskMarket={
+[1]={contractID=[[1104613775T320150728110606]],reachLv1=34,reachLv2=41,zhandouli1=0,zhandouli2=0},
+[2]={contractID=[[1104613775T320150728113838]],reachLv1=33,reachLv2=41,zhandouli1=0,zhandouli2=0},
+[3]={contractID=[[1104613775T320150730144007]],reachLv1=34,reachLv2=41,zhandouli1=0,zhandouli2=0},
+[4]={contractID=[[1104613775T320150730144231]],reachLv1=35,reachLv2=41,zhandouli1=0,zhandouli2=0},
+[5]={contractID=[[1104613775T320150730144440]],reachLv1=34,reachLv2=41,zhandouli1=0,zhandouli2=0},
+[6]={contractID=[[1104613775T320150810195252]],reachLv1=34,reachLv2=41,zhandouli1=0,zhandouli2=0},
+[7]={contractID=[[1104613775T320150810195629]],reachLv1=33,reachLv2=41,zhandouli1=0,zhandouli2=0},
+[8]={contractID=[[1104613775T320150821115120]],reachLv1=0,reachLv2=0,zhandouli1=7000,zhandouli2=11000},
+[9]={contractID=[[1104613775T320150828231837]],reachLv1=0,reachLv2=0,zhandouli1=7500,zhandouli2=12000},
+[10]={contractID=[[1104613775T320150910203210]],reachLv1=0,reachLv2=0,zhandouli1=9000,zhandouli2=15000}}end)();

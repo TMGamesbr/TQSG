@@ -1,0 +1,23 @@
+(function()Base={
+[1]={centerAreaID={7},bornAreaID={101},redBackBloodAreaID={21},blueBackBloodAreaID={22},redBornPos={5958,4848},blueBornPos={7605,4091},redV1=1600,blueV1=1600,pkLen=54,redLen=15,blueLen=15,pkDiff=1,monster1Data={[3014003]=0,[3014004]=0,[3014005]=0,[3014006]=0},monster3Data={[3014001]=0,[3014002]=0},monster4Data={[3014007]=0,[3014008]=0},noDieComboKillMaxNum=25,comboKillTime=10,humanReliveTime=20,breakNoDieComboKill=5,backBloodPre=10,backBloodMoney=1,ordercdtime=30,noDieComboKill={[5]={"%sthế như chẻ tre ，hoàn thành %s"},[10]={"%smột tiếng trống làm tinh thần hăng hái thêm ，hoàn thành %s"},[25]={"%sđã mất nhân có thể ngăn ，hoàn thành %s"},[50]={"%sdĩ vạn phu sờ địch ，hoàn thành %s"},[100]={"%sdĩ võ thần chiếm được ，hoàn thành %s"}}}}end)();
+(function()Income={
+[1]={pkAddV1={4,4},killHumanV1=6,killMonster1V1=300,killMonster2V1=0,killMonster3V1=800,killMonster4V1=0,noMonster3V1={1,2}}}end)();
+(function()WarReward={
+[1]={warReward={{12351,1,1},{12349,1,1},{12347,1,1}},winLeaderReward={{12353,1,1},{11453,1,1},{10006,3000,1}},winMemberReward={{12351,1,1},{11453,1,1},{10006,1500,1}},round1WinReward={{12456,1,1}},round1FailReward={{12457,1,1}},round2WinReward={{12347,1,1}},round2FailReward={{12348,1,1}},round3WinReward={{12349,1,1}},round3FailReward={{12350,1,1}},round4WinMember={{12351,1,1}},round4WinReward={{12353,1,1}},round4FailReward={{12352,1,1}}}}end)();
+(function()WarTequan={
+[1]={titleID=1,attr=400,exp=100},
+[2]={titleID=2,attr=401,exp=60},
+[3]={titleID=3,attr=402,exp=40},
+[4]={titleID=3,attr=402,exp=40},
+[5]={titleID=4,attr=403,exp=20},
+[6]={titleID=4,attr=403,exp=20},
+[7]={titleID=4,attr=403,exp=20},
+[8]={titleID=4,attr=403,exp=20},
+[9]={titleID=0,attr=0,exp=10},
+[10]={titleID=0,attr=0,exp=10},
+[11]={titleID=0,attr=0,exp=10},
+[12]={titleID=0,attr=0,exp=10},
+[13]={titleID=0,attr=0,exp=10},
+[14]={titleID=0,attr=0,exp=10},
+[15]={titleID=0,attr=0,exp=10},
+[16]={titleID=0,attr=0,exp=10}}end)();
