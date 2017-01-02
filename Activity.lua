@@ -1,5 +1,5 @@
 (function()actValue={
-[1]={name=[[hằng ngày nhiệm vụ]],type=[[daily_task]],param={},rewardDesc=[[]],maxCnt=15,valuePerCnt=2,cmd=[[clickTaskGuide]],args={},lv=37,sortIndex=1,yuanbao=15},
+[1]={name=[[Tarefas diárias]],type=[[daily_task]],param={},rewardDesc=[[]],maxCnt=15,valuePerCnt=2,cmd=[[clickTaskGuide]],args={},lv=37,sortIndex=1,yuanbao=15},
 [2]={name=[[treo giải thưởng nhiệm vụ]],type=[[bounty_task]],param={},rewardDesc=[[]],maxCnt=15,valuePerCnt=2,cmd=[[open]],args={23},lv=32,sortIndex=2,yuanbao=15},
 [3]={name=[[hoàng khăn chi Loạn]],type=[[copy]],param={8000},rewardDesc=[[]],maxCnt=3,valuePerCnt=10,cmd=[[open]],args={12},lv=33,sortIndex=3,yuanbao=15},
 [4]={name=[[vô song chiến vực]],type=[[copy]],param={7001,7011,7021},rewardDesc=[[]],maxCnt=4,valuePerCnt=8,cmd=[[open]],args={15},lv=35,sortIndex=4,yuanbao=16},
