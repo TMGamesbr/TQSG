@@ -1,12 +1,12 @@
 (function()list={
-[1]={name=[[login]],detail=[[đăng ký hào lễ]]},
-[2]={name=[[sign]],detail=[[mỗi ngày đánh dấu]]},
-[3]={name=[[invest]],detail=[[đầu tư người phóng khoáng lạc quan]]},
-[4]={name=[[online]],detail=[[ở tuyến lĩnh tưởng]]},
-[5]={name=[[cowry]],detail=[[túi gấm tầm bảo]]},
-[6]={name=[[vô]],detail=[[tạp hào đổi]]},
-[7]={name=[[lv]],detail=[[đẳng cấp đặc biệt huệ]]},
-[8]={name=[[grow]],detail=[[lớn đặc biệt huệ]]}}end)();
+[1]={name=[[login]],detail=[[Cerimônia de trincheira de login]]},
+[2]={name=[[sign]],detail=[[Atendimento diário]]},
+[3]={name=[[invest]],detail=[[Daren investimento]]},
+[4]={name=[[online]],detail=[[Prêmio on-line]]},
+[5]={name=[[cowry]],detail=[[Dicas de Geocaching]]},
+[6]={name=[[无]],detail=[[Troca do cartão]]},
+[7]={name=[[lv]],detail=[[Ofertas de nível]]},
+[8]={name=[[grow]],detail=[[Ofertas de crescimento]]}}end)();
 (function()login={
 [1]={index=1,reward={{10004,100},{11503,40},{11100,30},{11011,30}}},
 [2]={index=2,reward={{10004,100},{11503,60},{20005,1},{30015,2}}},
