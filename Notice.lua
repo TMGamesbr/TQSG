@@ -1,32 +1,32 @@
 (function()notice={
-[1]={content=[[<font color="#00FF00"size="16"weight="500">tân tăng nội dung </font>
-<font color="#FFDDAA">1、tân tăng chiến giáp bồi dưỡng công năng 。</font>
-<font color="#FFDDAA">2、tân tăng biến ảo tọa kỵ <font color="#FFFF00">【rất cánh tay liệt địa bi 】</font>，mảnh nhỏ tương đi qua định kỳ hoạt động biếu tặng 。</font>
-<font color="#FFDDAA">3、tân tăng thứ 8giai tọa kỵ <font color="#FFFF00">【thanh ngọc đế vương long 】</font>，tọa kỵ thăng tinh chi hồn nhưng ở 【trân bảo thương điếm 】thu được 。</font>
-<font color="#FFDDAA">4、tân tăng đạo cụ mau lẹ sử dụng cách Rvà T，có thể đem song kích có thể sử dụng đích đạo cụ kéo vào đạo cụ cách trung sử dụng 。</font>
-<font color="#FFDDAA">5、tân tăng 【phía chính phủ tiến công chiếm đóng 】，nhưng điểm kích chúa mặt biên bên phải thượng sừng “phía chính phủ tiến công chiếm đóng ”cái nút kiểm tra ，bên trong kể lại giới thiệu trò chơi các hệ thống ngoạn pháp và đề thăng đường 。</font>
+[1]={content=[[<font color="#00FF00" size="16"weight="500">O que há de novo</font>
+<font color="#FFDDAA">1、Formação apresenta nova armadura.</font>
+<font color="#FFDDAA">2、Adicionar montagens metamorfose<font color="#FFFF00">【Brown bonito fratura braços urso】</font>，Detritos serão apresentados através de atividades regulares.</font>
+<font color="#FFDDAA">3、Nova seção 8 da ordem montagens<font color="#FFFF00">【Dragão de jade imperial】</font>，Estrela em ascensão monta alma pode【Loja de tesouros】Obteve-se.</font>
+<font color="#FFDDAA">4、Novos adereços rápido usando grade R e T, adereços podem clicar duas vezes para usar adereços para arrastar grade usada.</font>
+<font color="#FFDDAA">5、Novo 【Guia Oficial】，Clique no canto superior direito da interface principal "Guia Oficial" para ver, que detalhou os vários sistemas de jogo ea maneira de melhorar o jogo.</font>
 
-<font color="#00FF00"size="16"weight="500">ưu hoá điều chỉnh </font>
-<font color="#FFDDAA">1、【đại hán đánh nhau kịch liệt tràng 】tăng hoạt động vi tích phân đạt tiêu chuẩn thưởng cho ，trong hoạt động chỉ cần đạt tiêu chuẩn vi tích phân ，là được thu được lễ túi ，tịnh gia tăng rồi <font color="#FFFF00">【vu Cấm tương hồn 】</font>đích thưởng cho 。</font>
-<font color="#FFDDAA">2、【phạt binh Lạc Dương 】phó bản trung gian cờ xí do thu thập vật đổi thành quái vật ，nhưng toàn bộ hành trình tự động treo cơ đi qua phó bản ：
-<font color="#FFDDAA">3、【thuyền cỏ mượn tên 】tăng <font color="#FFFF00">【đêm trăng điên cuồng hét lên chi hồn 】</font>đích thưởng cho 。</font>
-<font color="#FFDDAA">4、điều chỉnh thế giới BOSSvà dã ngoại BOSSđích oạt Thi Thể lấy được di vật Bảo rương trung đích thưởng cho 。</font>
-<font color="#FFDDAA">5、nhảy qua phục quân đoàn chiến mỗi tuần dự thi quân đoàn số lượng do 8một điều chỉnh làm 16một ，thời gian chiến đấu cũng tương ứng làm ra điều chỉnh ：thứ sáu 8:00và 21:00、thứ bảy 8:00và 21:00。</font>
-<font color="#FFDDAA">6、quân đoàn hoạt động 【đào viên kết nghĩa 】miễn phí cung phụng làm lạnh thời gian điều chỉnh làm 60phút ，miễn phí cung phụng một lần tăng 1200lớn giá trị 。</font>
-<font color="#FFDDAA">7、thần binh bồi dưỡng đáo mãn thì ，tương ở thần binh tên gọi tiền phương tăng “cực •”đích biểu hiện 。</font>
+<font color="#00FF00" size="16"weight="500">Ajuste ideal</font>
+<font color="#FFDDAA">1、【Jogos de luta Han】Incentivos para a observância Atividade aumentar a pontuação, as atividades de conformidade, desde que os pontos, você pode obter pacotes, e adiciona<font color="#FFFF00">【Para proibir a alma】</font>Ele recompensa.</font>
+<font color="#FFDDAA">2、【Soldados corte Luoyang】Uma cópia da bandeira do centro para a aquisição era um monstro, você pode pendurar-se de uma cópia do automática cheia：
+<font color="#FFDDAA">3、【Referência o desgaste】 adição<font color="#FFFF00">【Alma uivando luar】</font>Ele recompensa.</font>
+<font color="#FFDDAA">4、Ajuste cadáveres cavar e Chefe do chefe do mundo campo obtido relíquias de recompensa peito.</font>
+<font color="#FFDDAA">5、Guerra inter-serviços Legião número semanal de entradas pelos oito ajustado a 16, o tempo de batalha ajustados em conformidade：Sexta-feira 8:00 e 21:00、sábado 8:00 e 21:00.</font>
+<font color="#FFDDAA">6、Eventos Legião【Pêssego】Tempo de arrefecimento dedicado livre foi ajustado para 60 minutos，Tempo livre dedicado a aumentar o valor de 1200 o crescimento.</font>
+<font color="#FFDDAA">7、Trem mágica ao máximo, vai aumentar o "pólo •" show de mágica na frente dos nomes.</font>
 
 
-<font color="#00FF00"size="16"weight="500">vấn đề chữa trị </font>
-<font color="#FFDDAA">1、chữa trị sử dụng cường hóa bảo hộ phù hậu ，xác xuất thành công 100%thì nhưng mới có thể hội thất bại vấn đề 。</font>
-<font color="#FFDDAA">2、chữa trị 【Kinh Châu tranh đoạt chiến 】thông cáo biểu hiện sai lầm vấn đề 。</font>
+<font color="#00FF00" size="16"weight="500">Correções de bugs</font>
+<font color="#FFDDAA">1、Reparação usando quebras de protecção reforçada, a taxa de sucesso de 100% ainda podem falhar.</font>
+<font color="#FFDDAA">2、Reparação【Batalha Jingzhou】Anúncios pergunta errada.</font>
 ]]}}end)();
 (function()version={
-[1]={content=[[<font color="#00FF00"size="16"weight="500">đặc sắc báo trước </font>
-<font color="#FFDDAA">gần đẩy dời đi dưới tân công năng ：</font>
-<font color="#FFDDAA">1、tam quốc quân hàm ：công danh ，lợi lộc ，quyền thế ，cái gì cần có đều có ！</font>
-<font color="#FFDDAA">2、quần hùng tranh phách ：mỗi đêm tám giờ ，xứng đôi cực mạnh đối thủ chi chiến ，thùy dữ tranh phong ！</font>
-<font color="#FFDDAA">3、nhảy qua phục trận doanh ：chủ nhật nhảy qua phục đại thế giới ！</font>
-           <font color="#FFDDAA"> càng nhiều tân nội dung tương lục tục đẩy dời đi ，kính xin chờ mong ！</font>
+[1]={content=[[<font color="#00FF00" size="16"weight="500">Trailer maravilhoso</font>
+<font color="#FFDDAA">Os seguintes novos recursos em breve：</font>
+<font color="#FFDDAA">1、Três classificações: fama, fortuna, poder, tudo！</font>
+<font color="#FFDDAA">2、Furia dos reis：Toda noite às oito, combinando os mais fortes opositores da guerra, rival！</font>
+<font color="#FFDDAA">3、Acampamento inter-servidor：Mundial inter-servidor Sun！</font>
+                      <font color="#FFDDAA">  Mais novo conteúdo será lançado, portanto, fique atento！</font>
 ]]}}end)();
 (function()update={
 [1]={updateTime={2015,11,12,09,00,0}}}end)();
